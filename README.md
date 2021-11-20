@@ -1,5 +1,5 @@
 # phpKalakuri
-Demo georgian cafe website built just for an experience
+Demo georgian cafe website built just for an experience <br>
 IMAGES
 ![alt text](https://i.ibb.co/86RxZcY/Screenshot-1.png)
 ![alt text](https://i.ibb.co/z2Wr1Pr/Screenshot-2.png)
